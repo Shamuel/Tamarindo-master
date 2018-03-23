@@ -1,7 +1,8 @@
 ﻿Public Class Login
+
     Private Sub Login_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Registrarse.Enabled = False
-
+        abrirConexion()
     End Sub
 
     Private Sub GenerarCodigo_Click(sender As Object, e As EventArgs) Handles GenerarCodigo.Click
@@ -15,33 +16,25 @@
 
     End Sub
 
+
+
     Private Sub Ingresar_Click(sender As Object, e As EventArgs) Handles Ingresar.Click
+        'Verificar si exite algun usuario con el usuario que se digito y hacer lo mismo con la contrasena
         Try
-            '3- Abre conexion a base de datos
-            conexion.ConnectionString = servidor_datos
-            conexion.Open()
-            '4- Crear adaptador para llenar el dataset  
-            Dim adaptador As SqlClient.SqlDataAdapter
-            '5- Definir el dataset
-            Dim set_de_datos As New DataSet()
-            '6- Definir la variable para la instruccion SQL
-            Dim instruccionSQL As String
-            instruccionSQL = "Select * from TBL_Usuario_102 where PK_IdUsuario = '" & Usuario.Text & "' 
-                and CP_Contrasena = '" & Contraseña.Text & "'"
+            If UsuarioRegistrado(Usuario.Text) = True Then
+                Dim contra As String = contrasena(Usuario.Text)
+                If contra.Equals(Contraseña.Text) = True Then
+                    Menú_principal_candidatos__empleados.Show()
 
-            '7- Cargar el datagridview y ver si la persona puso datos 
-            If Usuario.Text = "" Or Contraseña.Text = "" Then
-
-                MessageBox.Show("Escriba", "MENSAJE DEL SISTEMA",
-                         MessageBoxButtons.OK, MessageBoxIcon.Asterisk)
-
+                Else
+                    MsgBox("Contraseña Invalida", MsgBoxStyle.Critical)
+                End If
+            Else
+                MsgBox("El Usuario: " + Usuario.Text + " no se encuentra registrado")
             End If
-            Menú_principal_candidatos__empleados.Show()
-
         Catch ex As Exception
-            MsgBox(ex.Message, MsgBoxStyle.Critical, "Error")
+            MsgBox(ex.ToString)
         End Try
-        conexion.Close()
 
     End Sub
 End Class

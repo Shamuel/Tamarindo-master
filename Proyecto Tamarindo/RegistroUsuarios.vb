@@ -16,13 +16,8 @@
                 Dim set_de_datos As New DataSet()
                 '6- Definir la variable para la instruccion SQL
                 Dim instruccionSQL As String
-                instruccionSQL = "insert into TBL_Usuario_102 (PK_IdUsuario,FK_Id_500,FK_TipoUsuario_103,
-                    CP_Contrasena,CP_FechaCambioContrasena,CP_EstadoBloqueo,CP_Fecha_Inclusion,
-                    CP_Contador_CambioContrasena) values 
-                    ( '1234'" + ",'" + Cedula.Text + "'," +
-                    4 + ",'" + Contraseña.Text + "','" +
-                   FechaInclusion.Text + "'," + 0 + ",'" + FechaInclusion.Text + "'," +
-                     +3 + ")"
+                instruccionSQL = "insert into TBL_Usuario_102 values (" + "'4321'" + ",'" + "12234" + ",'" + 4 + ",'" + Contraseña.Text + ",'" +
+                    FechaInclusion.Text + ",'" + 0 + ",'" + FechaInclusion.Text + ",'" + 3 + "')"
 
                 '7- Cargar el datagridview y ver si la persona puso datos 
                 If Cedula.Text = "" Or NombreDePersona.Text = "" Or Contraseña.Text = "" Or
