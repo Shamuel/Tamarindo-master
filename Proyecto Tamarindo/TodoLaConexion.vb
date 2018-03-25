@@ -50,5 +50,14 @@
         Return ResultadoConexion
     End Function
 
+    Function Insertar(ByVal sql)
+        instruccionSQL = New SqlClient.SqlCommand(sql, conexion)
+        Dim i As Integer = instruccionSQL.ExecuteNonQuery
+        If (i > 0) Then
+            Return True
+        Else
+            Return False
+        End If
+    End Function
 
 End Module

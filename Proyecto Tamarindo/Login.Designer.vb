@@ -31,8 +31,11 @@ Partial Class Login
         Me.LinkLabel1 = New System.Windows.Forms.LinkLabel()
         Me.Contraseña = New System.Windows.Forms.TextBox()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
+        Me.EnviarCorreo = New System.Windows.Forms.Button()
+        Me.DigiteCorreo = New System.Windows.Forms.TextBox()
         Me.GenerarCodigo = New System.Windows.Forms.Button()
         Me.Registrarse = New System.Windows.Forms.Button()
+        Me.CodigoRecibido = New System.Windows.Forms.TextBox()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -125,6 +128,9 @@ Partial Class Login
         'TabPage2
         '
         Me.TabPage2.BackColor = System.Drawing.Color.WhiteSmoke
+        Me.TabPage2.Controls.Add(Me.CodigoRecibido)
+        Me.TabPage2.Controls.Add(Me.EnviarCorreo)
+        Me.TabPage2.Controls.Add(Me.DigiteCorreo)
         Me.TabPage2.Controls.Add(Me.GenerarCodigo)
         Me.TabPage2.Controls.Add(Me.Registrarse)
         Me.TabPage2.Location = New System.Drawing.Point(4, 27)
@@ -133,6 +139,24 @@ Partial Class Login
         Me.TabPage2.Size = New System.Drawing.Size(688, 258)
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "Registro"
+        '
+        'EnviarCorreo
+        '
+        Me.EnviarCorreo.Font = New System.Drawing.Font("Calibri", 17.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.EnviarCorreo.Location = New System.Drawing.Point(511, 211)
+        Me.EnviarCorreo.Name = "EnviarCorreo"
+        Me.EnviarCorreo.Size = New System.Drawing.Size(171, 41)
+        Me.EnviarCorreo.TabIndex = 26
+        Me.EnviarCorreo.Text = "Enviar Codigo"
+        Me.EnviarCorreo.UseVisualStyleBackColor = True
+        '
+        'DigiteCorreo
+        '
+        Me.DigiteCorreo.Font = New System.Drawing.Font("Calibri", 17.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.DigiteCorreo.Location = New System.Drawing.Point(181, 54)
+        Me.DigiteCorreo.Name = "DigiteCorreo"
+        Me.DigiteCorreo.Size = New System.Drawing.Size(343, 36)
+        Me.DigiteCorreo.TabIndex = 25
         '
         'GenerarCodigo
         '
@@ -156,6 +180,14 @@ Partial Class Login
         Me.Registrarse.Text = "Registrarse "
         Me.Registrarse.UseVisualStyleBackColor = False
         '
+        'CodigoRecibido
+        '
+        Me.CodigoRecibido.Font = New System.Drawing.Font("Calibri", 17.25!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.CodigoRecibido.Location = New System.Drawing.Point(181, 96)
+        Me.CodigoRecibido.Name = "CodigoRecibido"
+        Me.CodigoRecibido.Size = New System.Drawing.Size(343, 36)
+        Me.CodigoRecibido.TabIndex = 27
+        '
         'Login
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -170,6 +202,7 @@ Partial Class Login
         Me.TabPage1.ResumeLayout(False)
         Me.TabPage1.PerformLayout()
         Me.TabPage2.ResumeLayout(False)
+        Me.TabPage2.PerformLayout()
         Me.ResumeLayout(False)
 
     End Sub
@@ -184,4 +217,7 @@ Partial Class Login
     Friend WithEvents Contraseña As TextBox
     Friend WithEvents GenerarCodigo As Button
     Friend WithEvents Registrarse As Button
+    Friend WithEvents EnviarCorreo As Button
+    Friend WithEvents DigiteCorreo As TextBox
+    Friend WithEvents CodigoRecibido As TextBox
 End Class
