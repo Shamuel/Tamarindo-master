@@ -1,0 +1,54 @@
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.exe.config
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.exe
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.pdb
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.xml
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbprojResolveAssemblyReference.cache
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Login.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Menú_principal_admi.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Menú_principal_candidatos__empleados.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.AntesDeRegistro.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Resources.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Registro.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbproj.GenerateResource.cache
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbproj.CoreCompileInputs.cache
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.exe
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.xml
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.pdb
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.ExpedienteAdmi.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Asignar_fecha_de_prueba.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Crear_Reporte.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form2.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form3.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.ExpedienteEmpleado.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form6.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ingresar_codigo_del_empleado.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form1.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ver_fecha_de_pruebas.resources
+C:\Users\murip\Desktop\Stuff\U\Proyecto I\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ver_reporte.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.exe.config
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.exe
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.pdb
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\bin\Debug\Proyecto Tamarindo.xml
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbprojResolveAssemblyReference.cache
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Asignar_fecha_de_prueba.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Crear_Reporte.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.ExpedienteAdmi.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form2.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form3.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.ExpedienteEmpleado.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form6.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ingresar_codigo_del_empleado.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Login.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Form1.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Menú_principal_admi.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Menú_principal_candidatos__empleados.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.AntesDeRegistro.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Resources.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Registro.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ver_fecha_de_pruebas.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto_Tamarindo.Ver_reporte.resources
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbproj.GenerateResource.Cache
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.vbproj.CoreCompileInputs.cache
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.exe
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.xml
+C:\Users\Shamuel Simpson\Documents\Tamarindo-master\Tamarindo-master\Proyecto Tamarindo\obj\Debug\Proyecto Tamarindo.pdb
